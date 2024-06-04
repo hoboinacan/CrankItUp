@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_trait_marksmandesc = "Improved gun accuracy.<br>Quicker crankin.",
+	UI_optionscreen_reloading = "CRANKIN"
+}

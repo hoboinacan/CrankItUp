@@ -1,0 +1,8 @@
+version=1
+title=Crank It Up
+description=This is a dumb mod created as a joke. Replaces a few instances of the word 'Reloading' with 'Crankin'.
+description=
+description=
+description=DISCLAIMER: Not responsible for loss of brain cells. Use at own risk.
+tags=crankin
+visibility=public
