@@ -1,0 +1,7 @@
+name=Crank It Up [b424]
+id=CrankItUp42
+poster=poster.png
+modversion=1.0.0
+versionMin=42.0
+incompatible=41.78 or earlier
+description=Just a really dumb mod to rename reload to crankin.

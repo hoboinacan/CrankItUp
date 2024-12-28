@@ -1,5 +1,5 @@
 version=1
-title=Crank It Up
+title=Crank It Up [b42]
 description=This is a dumb mod created as a joke. Replaces a few instances of the word 'Reloading' with 'Crankin'.
 description=
 description=

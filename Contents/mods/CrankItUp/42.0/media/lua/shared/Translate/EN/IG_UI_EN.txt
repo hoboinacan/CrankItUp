@@ -1,4 +1,5 @@
 IGUI_EN = {
     IGUI_perks_Reloading = "Crankin",
+	IGUI_perks_Crankin_Description = "Increases the speed you crank it. Trained by crankin it.",
     IGUI_ItemEditor_ReloadTime = "Crankin Time"
 }
